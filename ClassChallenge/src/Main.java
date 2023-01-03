@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
-        Customer weshy = new Customer("Weshy", 1000.0, "weshy@weshy.co");
+//        Customer weshy = new Customer("Weshy", 1000.0, "weshy@weshy.co");
 
 //        Account weshysAccount = new Account("12345", 1000.00, "Weshy Joe",
 //                "weshyjoes@gmail.com", "(254) 101-236688");
